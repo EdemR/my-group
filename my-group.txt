@@ -1,3 +1,5 @@
+Ádám Tébold
+Erik Kuti
 Tébold Ádám
 Szász Gergely
 Hantos Péter
@@ -9,3 +11,6 @@ Krausz Marcell
 Bajnoczi Istvan
 Hamar Gyuri
 Bíró János
+Csanádi Balázs
+Bényei Antal
+Hohmann Adam
