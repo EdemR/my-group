@@ -1,4 +1,4 @@
-Ádám Tébold
+Tébold Ádám
 Szász Gergely
 Hantos Péter
 Zemen Zsolt
@@ -7,3 +7,5 @@ Gábor Marcell
 Patyi János
 Krausz Marcell
 Bajnoczi Istvan
+Hamar Gyuri
+Bíró János
